@@ -1,4 +1,5 @@
 This device repo is meant to be able to build latest twrp using omni branches, it is based on original deepflex device tree, which was then forked by leskal, and i am continuing doing modifications, where its needed.
+This is currently working with omni-6.0 branches and android-7.1 team win recovery sources.
 
 -- CREDITS --
 Thanks to:
