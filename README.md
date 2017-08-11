@@ -2,8 +2,8 @@ This device repo is meant to be able to build latest twrp using omni branches, i
 
 -- CREDITS --
 Thanks to:
-Deepflex
-Leskal
+Deepflex/
+Leskal/
 Tribual (for helping me setup a working build environment)
 
 Elephone P9000
